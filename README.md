@@ -67,5 +67,13 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teyddie22&show_icons=true&theme=radical)
+
+---
+
+
+
+
+
 [twitter]: https://twitter.com/Teyddie22
 [linkedin]: https://www.linkedin.com/in/teddy-yongo-4181111b1/
