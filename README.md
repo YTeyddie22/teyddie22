@@ -2,11 +2,11 @@
 
 ## I'm a Software Engineer and an undergraduate student.
 
-- 💻 I’m currently trying learning everything related to software engineering
-- I am still working around Javascript 😉
-- 💓 I love playing with dogs and engage in sporting activities such as football and rugby
-- 👯 Helping the community in any way that can cause an impact in my major goal
-- 🥅 I want to Contribute more to Open Source projects in 2022
+- 💻 I’m currently trying to learn everything related to software engineering.
+-    I am still working around Javascript 😉.
+- 💓 I love playing with dogs and engage in sporting activities such as football and rugby.
+- 👯 Helping the community in any way that can cause an impact to the society in my major goal.
+- 🥅 I want to Contribute more to Open Source projects in 2022.
 
 ### 📱Connect with me:
 
