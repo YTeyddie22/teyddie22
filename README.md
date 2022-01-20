@@ -73,6 +73,8 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teyddie22&layout=compact)](https://github.com/teyddie22/github-readme-stats)---
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=teyddie22&theme=dracula)](https://github.com/github22/github-readme-activity-graph)
+
 
 
 
